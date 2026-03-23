@@ -1,1 +1,1 @@
-# Movie-Rental-Service-SQL-Project
+# Movie-Rental-Service (SQL Project)
